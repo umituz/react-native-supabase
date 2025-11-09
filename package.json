@@ -1,6 +1,6 @@
 {
   "name": "@umituz/react-native-supabase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Domain-Driven Design Supabase client for React Native apps with type-safe operations and singleton pattern",
   "main": "./src/index.ts",
   "types": "./src/index.ts",
@@ -52,4 +52,3 @@
     "LICENSE"
   ]
 }
-
