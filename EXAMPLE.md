@@ -219,3 +219,4 @@ const config = {
 initializeSupabase(config);
 ```
 
+

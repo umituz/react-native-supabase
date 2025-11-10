@@ -121,3 +121,4 @@ export function validateSupabaseConfig(config: SupabaseConfig): {
   return { valid: true };
 }
 
+
