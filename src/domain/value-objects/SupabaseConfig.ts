@@ -122,3 +122,5 @@ export function validateSupabaseConfig(config: SupabaseConfig): {
 }
 
 
+
+
